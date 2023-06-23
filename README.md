@@ -13,6 +13,8 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+---
+
 <img src="https://media.giphy.com/media/qfiP3gjBmTvPFTT1Fx/giphy.gif" width="400"/>
 </div>
 :woman_technologist: About Me :
