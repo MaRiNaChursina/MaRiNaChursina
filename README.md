@@ -10,6 +10,9 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=MaRiNaChursina&style=flat-square&color=blue" alt=""/>
 <h1>Hi there 👋</h1>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <img src="https://media.giphy.com/media/qfiP3gjBmTvPFTT1Fx/giphy.gif" width="400"/>
 </div>
 :woman_technologist: About Me :
@@ -44,7 +47,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaRiNaChursina&theme=dark&background=000000)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaRiNaChursina)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRiNaChursina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
